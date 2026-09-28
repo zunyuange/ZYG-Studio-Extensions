@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ZYG-Studio-Codex-Runtime-v2.1.0.mcext",
+    "bytes": 100331654,
+    "sha256": "7ae58071e252c826c9da42856a28589b0490c9797fd1284ce57120bfe78c7790",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-Codex-Runtime-v2.1.0.mcext"
+  },
+  {
+    "name": "ZYG-Studio-Java-Android-v2.1.2.mcext",
+    "bytes": 416446369,
+    "sha256": "91ce60976ab8160927ae71ce6dabcce01ba3fca217653a6bc5c486d1c3a02a0a",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-Java-Android-v2.1.2.mcext"
+  },
+  {
+    "name": "ZYG-Studio-Lua-Android-v1.4.0.mcext",
+    "bytes": 5641737,
+    "sha256": "a89c3565946839ced49bfb8eeff846e5af822a2b714136707431cf3a8ab084f9",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-Lua-Android-v1.4.0.mcext"
+  },
+  {
+    "name": "ZYG-Studio-apktool-v3.0.3.mcext",
+    "bytes": 161082709,
+    "sha256": "daad44cf5a5be7bd1a35e4717c9536b2925f738d16ea28e11a3dafd34ca370e6",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-apktool-v3.0.3.mcext"
+  },
+  {
+    "name": "ZYG-Studio-clang-v21.1.8.1.mcext",
+    "bytes": 298743164,
+    "sha256": "7ec554ac5c7457db95dc8122329d73e7e3a47e2040bd7c48ce97e10a67d25855",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-clang-v21.1.8.1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-git-v2.55.0.mcext",
+    "bytes": 29583929,
+    "sha256": "90e550ce602fbdab7b0e666f719cc009fa216c3f4ee2404ac6e7c39bbef1a266",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-git-v2.55.0.mcext"
+  },
+  {
+    "name": "ZYG-Studio-golang-v1.26.5.mcext",
+    "bytes": 309611911,
+    "sha256": "c695085b083faa95f9b440c5c2426e598c051d113ccd39b9b4f6b0efb2cc495f",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-golang-v1.26.5.mcext"
+  },
+  {
+    "name": "ZYG-Studio-nodejs-v26.4.0.1.mcext",
+    "bytes": 74951163,
+    "sha256": "83da12790ca03ee04ba95c4f8e434c2eda828402ace1546483219b44bfe5b66a",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-nodejs-v26.4.0.1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-openjdk-v21.0.12.mcext",
+    "bytes": 152029404,
+    "sha256": "bac595784ce7e4d3badbe95be2588954f2955f25441bcdc45c15c1bd6ebcefc0",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-openjdk-v21.0.12.mcext"
+  },
+  {
+    "name": "ZYG-Studio-openssh-v10.5p1.mcext",
+    "bytes": 23536610,
+    "sha256": "4df052535d2bad583f03c353c256c35bf4461ce546e5bcf0b2955c494a8cc174",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-openssh-v10.5p1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-php-web-v8.5.1.1.mcext",
+    "bytes": 94999784,
+    "sha256": "ae215e21949ffc83cf41651ae9c1cb6bea7d6022feacc504955373f865d20cfb",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-php-web-v8.5.1.1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-python-v3.14.6.mcext",
+    "bytes": 29241894,
+    "sha256": "5d83a1ee3a7c0a985b493c96f00e6db5cbb2ac11c8131dec81068409cccb66a7",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-python-v3.14.6.mcext"
+  },
+  {
+    "name": "ZYG-Studio-ripgrep-v14.1.1.mcext",
+    "bytes": 2274239,
+    "sha256": "08f0089ce4bc1e58253401178b16f61fd5e9d2575b4b0a3ba71c8febac0c68f1",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-ripgrep-v14.1.1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-rust-v1.97.1.1.mcext",
+    "bytes": 502335164,
+    "sha256": "6e0190b050f2a06bf6b9de6d9acc3cb5ff34a2b1953b4a3a5da1c720345a86f3",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-rust-v1.97.1.1.mcext"
+  },
+  {
+    "name": "ZYG-Studio-sqlite-v3.53.4.mcext",
+    "bytes": 8609179,
+    "sha256": "f75a393d04310265330500fdf16c7759d5ad7be22dcc0ce2f072a54684e2479f",
+    "download_url": "https://github.com/zunyuange/ZYG-Studio-Extensions/releases/download/v2026.09.28/ZYG-Studio-sqlite-v3.53.4.mcext"
+  }
+]
